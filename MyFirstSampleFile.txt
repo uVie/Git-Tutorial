@@ -1,5 +1,4 @@
-
-
+Deleting the New lines
 Sample file created from GitHub under the Branch uVie/Git-Tutorial
 
 
